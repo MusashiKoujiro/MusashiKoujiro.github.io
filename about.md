@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little about me.
+Just a guy who decided to learn how to code websites. And who sometimes reads Manga and Books.
